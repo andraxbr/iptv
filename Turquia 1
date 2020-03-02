@@ -1,0 +1,499 @@
+#EXTM3U
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2349.png",ATV HD
+http://skdn.redi-vo.com/iptv/ch2349?code=103131497823984&key=53172
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2370.png",ATV Avrupa Tr
+http://skdn.redi-vo.com/iptv/ch2370?code=103131497823984&key=43411
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2372.png",A news Tr
+http://skdn.redi-vo.com/iptv/ch2372?code=103131497823984&key=24010
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2351.png",A Haber
+http://skdn.redi-vo.com/iptv/ch2351?code=103131497823984&key=43761
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2316.png",A para Tr
+http://skdn.redi-vo.com/iptv/ch2316?code=103131497823984&key=37941
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2350.png",Aspor HD
+http://skdn.redi-vo.com/iptv/ch2350?code=103131497823984&key=37111
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2330.png",A2 HD Tr
+http://skdn.redi-vo.com/iptv/ch2330?code=103131497823984&key=56228
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2334.png",A2 Tr
+http://skdn.redi-vo.com/iptv/ch2334?code=103131497823984&key=39141
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2333.png",Kanal D HD
+http://skdn.redi-vo.com/iptv/ch2333?code=103131497823984&key=22161
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2335.png",Kanal 7
+http://skdn.redi-vo.com/iptv/ch2335?code=103131497823984&key=41238
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/424.png",Kanal7 Avrupa TR
+http://skdn.redi-vo.com/iptv/ch424?code=103131497823984&key=54481
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2314.png",Show TV HD
+http://skdn.redi-vo.com/iptv/ch2314?code=103131497823984&key=13006
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2311.png",Star Tv HD
+http://skdn.redi-vo.com/iptv/ch2311?code=103131497823984&key=48056
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1354.png",TV8 Tr
+http://skdn.redi-vo.com/iptv/ch1354?code=103131497823984&key=49831
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2307.png",TV8.5 Tr
+http://skdn.redi-vo.com/iptv/ch2307?code=103131497823984&key=55110
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2394.png",TV8 int. Tr
+http://skdn.redi-vo.com/iptv/ch2394?code=103131497823984&key=45624
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1376.png",Fox TV
+http://skdn.redi-vo.com/iptv/ch1376?code=103131497823984&key=60802
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2344.png",CNN Türk HD
+http://skdn.redi-vo.com/iptv/ch2344?code=103131497823984&key=30135
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2347.png",Beyaz TV HD
+http://skdn.redi-vo.com/iptv/ch2347?code=103131497823984&key=33716
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2338.png",Habertürk HD
+http://skdn.redi-vo.com/iptv/ch2338?code=103131497823984&key=23671
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1359.png",TRT 1
+http://skdn.redi-vo.com/iptv/ch1359?code=103131497823984&key=38036
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=103131497823984&key=44118
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1365.png",TRT Musik
+http://skdn.redi-vo.com/iptv/ch1365?code=103131497823984&key=44801
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1358.png",TRT Haber
+http://skdn.redi-vo.com/iptv/ch1358?code=103131497823984&key=22389
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1366.png",TRT Cocuk
+http://skdn.redi-vo.com/iptv/ch1366?code=103131497823984&key=41453
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1357.png",TRT Belgesel
+http://skdn.redi-vo.com/iptv/ch1357?code=103131497823984&key=25096
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1360.png",TRT Avaz Tr
+http://skdn.redi-vo.com/iptv/ch1360?code=103131497823984&key=44583
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1362.png",TRT 6
+http://skdn.redi-vo.com/iptv/ch1362?code=103131497823984&key=16909
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/459.png",TRT Arabic
+http://skdn.redi-vo.com/iptv/ch459?code=103131497823984&key=10122
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/413.png",Kanal T TR
+http://skdn.redi-vo.com/iptv/ch413?code=103131497823984&key=14055
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/422.png",Genc TR
+http://skdn.redi-vo.com/iptv/ch422?code=103131497823984&key=61559
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/423.png",BRT TR
+http://skdn.redi-vo.com/iptv/ch423?code=103131497823984&key=19410
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/426.png",Euro D TR
+http://skdn.redi-vo.com/iptv/ch426?code=103131497823984&key=15470
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/428.png",Semerkand TR
+http://skdn.redi-vo.com/iptv/ch428?code=103131497823984&key=51900
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/429.png",Euro Star TR
+http://skdn.redi-vo.com/iptv/ch429?code=103131497823984&key=52534
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2323.png",NTV
+http://skdn.redi-vo.com/iptv/ch2323?code=103131497823984&key=63800
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2324.png",NR1 Tv
+http://skdn.redi-vo.com/iptv/ch2324?code=103131497823984&key=24949
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2325.png",NR1 Türk Tv
+http://skdn.redi-vo.com/iptv/ch2325?code=103131497823984&key=24990
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2306.png",TV 2
+http://skdn.redi-vo.com/iptv/ch2306?code=103131497823984&key=49661
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2304.png",TV4
+http://skdn.redi-vo.com/iptv/ch2304?code=103131497823984&key=19155
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2301.png",Ulusal Tv
+http://skdn.redi-vo.com/iptv/ch2301?code=103131497823984&key=58182
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2302.png",Ulke TV
+http://skdn.redi-vo.com/iptv/ch2302?code=103131497823984&key=14650
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2303.png",TVNET HD
+http://skdn.redi-vo.com/iptv/ch2303?code=103131497823984&key=22896
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2352.png",TGRT Haber
+http://skdn.redi-vo.com/iptv/ch2352?code=103131497823984&key=12431
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2309.png",TGRT EU
+http://skdn.redi-vo.com/iptv/ch2309?code=103131497823984&key=54029
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2310.png",TGRT Belgesel
+http://skdn.redi-vo.com/iptv/ch2310?code=103131497823984&key=34975
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2332.png",Meltem Tv
+http://skdn.redi-vo.com/iptv/ch2332?code=103131497823984&key=21908
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2337.png",Halk TV
+http://skdn.redi-vo.com/iptv/ch2337?code=103131497823984&key=47131
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2340.png",Ege Tv
+http://skdn.redi-vo.com/iptv/ch2340?code=103131497823984&key=57100
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2345.png",Cem Tv
+http://skdn.redi-vo.com/iptv/ch2345?code=103131497823984&key=54598
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2346.png",Blomberg-tv
+http://skdn.redi-vo.com/iptv/ch2346?code=103131497823984&key=43870
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2348.png",Bengu turk
+http://skdn.redi-vo.com/iptv/ch2348?code=103131497823984&key=25646
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2300.png",Vatan Tv
+http://skdn.redi-vo.com/iptv/ch2300?code=103131497823984&key=12664
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=103131497823984&key=29705
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2367.png",Sivas Srt TR
+http://skdn.redi-vo.com/iptv/ch2367?code=103131497823984&key=42807
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2369.png",Kanalcay TR
+http://skdn.redi-vo.com/iptv/ch2369?code=103131497823984&key=34544
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2374.png",TRT World TR
+http://skdn.redi-vo.com/iptv/ch2374?code=103131497823984&key=24973
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1384.png",SKY 360
+http://skdn.redi-vo.com/iptv/ch1384?code=103131497823984&key=40528
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2315.png",Semerkand TV
+http://skdn.redi-vo.com/iptv/ch2315?code=103131497823984&key=20351
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2341.png",Dream Türk
+http://skdn.redi-vo.com/iptv/ch2341?code=103131497823984&key=55712
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2317.png",PowerTurk HD
+http://skdn.redi-vo.com/iptv/ch2317?code=103131497823984&key=63585
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2318.png",Power Tv HD
+http://skdn.redi-vo.com/iptv/ch2318?code=103131497823984&key=19658
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2329.png",Minika Cocuk
+http://skdn.redi-vo.com/iptv/ch2329?code=103131497823984&key=31877
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2375.png",Minika Go Tr
+http://skdn.redi-vo.com/iptv/ch2375?code=103131497823984&key=16671
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2368.png",Lalegul Tr
+http://skdn.redi-vo.com/iptv/ch2368?code=103131497823984&key=36951
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2364.png",365 Tr
+http://skdn.redi-vo.com/iptv/ch2364?code=103131497823984&key=37544
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2339.png",Disney Tr
+http://skdn.redi-vo.com/iptv/ch2339?code=103131497823984&key=24139
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/412.png",Cartoonnet Tr
+http://skdn.redi-vo.com/iptv/ch412?code=103131497823984&key=15794
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2336.png",TVT Tr
+http://skdn.redi-vo.com/iptv/ch2336?code=103131497823984&key=31808
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2331.png",TLC Tr
+http://skdn.redi-vo.com/iptv/ch2331?code=103131497823984&key=45010
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2308.png",D-Max Tr
+http://skdn.redi-vo.com/iptv/ch2308?code=103131497823984&key=61259
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2305.png",Mega Tr
+http://skdn.redi-vo.com/iptv/ch2305?code=103131497823984&key=55750
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/427.png",Park Tr
+http://skdn.redi-vo.com/iptv/ch427?code=103131497823984&key=25621
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2373.png",Kanalb Tr
+http://skdn.redi-vo.com/iptv/ch2373?code=103131497823984&key=52922
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2397.png",Gonka Tr
+http://skdn.redi-vo.com/iptv/ch2397?code=103131497823984&key=55524
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2398.png",Kackar Tr
+http://skdn.redi-vo.com/iptv/ch2398?code=103131497823984&key=16897
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2399.png",Kon Tr
+http://skdn.redi-vo.com/iptv/ch2399?code=103131497823984&key=42875
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2376.png",Kadirga Tr
+http://skdn.redi-vo.com/iptv/ch2376?code=103131497823984&key=32311
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2319.png",Kanal3 Tr
+http://skdn.redi-vo.com/iptv/ch2319?code=103131497823984&key=13261
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2320.png",CIFTCI Tr
+http://skdn.redi-vo.com/iptv/ch2320?code=103131497823984&key=41453
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2321.png",24 Tr
+http://skdn.redi-vo.com/iptv/ch2321?code=103131497823984&key=51933
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2322.png",Yaban Tr
+http://skdn.redi-vo.com/iptv/ch2322?code=103131497823984&key=24165
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2342.png",Discovery Science HD
+http://skdn.redi-vo.com/iptv/ch2342?code=103131497823984&key=47840
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2343.png",Discovery HD TR
+http://skdn.redi-vo.com/iptv/ch2343?code=103131497823984&key=43121
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2327.png",Nat. Geo. HD Tü
+http://skdn.redi-vo.com/iptv/ch2327?code=103131497823984&key=14731
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2357.png",Nat. Geo. Wild TR
+http://skdn.redi-vo.com/iptv/ch2357?code=103131497823984&key=12278
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2392.png",BBC Earth TR
+http://skdn.redi-vo.com/iptv/ch2392?code=103131497823984&key=24192
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2393.png",Animal Planet TR
+http://skdn.redi-vo.com/iptv/ch2393?code=103131497823984&key=34262
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2387.png",FX TR
+http://skdn.redi-vo.com/iptv/ch2387?code=103131497823984&key=41943
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2388.png",FOX Life TR
+http://skdn.redi-vo.com/iptv/ch2388?code=103131497823984&key=10692
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2389.png",FOX Crime TR
+http://skdn.redi-vo.com/iptv/ch2389?code=103131497823984&key=33835
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2390.png",GS TV TR
+http://skdn.redi-vo.com/iptv/ch2390?code=103131497823984&key=56914
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2313.png",FB TV
+http://skdn.redi-vo.com/iptv/ch2313?code=103131497823984&key=47708
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2386.png",BJK TR
+http://skdn.redi-vo.com/iptv/ch2386?code=103131497823984&key=59333
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2363.png",beIN Tr
+http://skdn.redi-vo.com/iptv/ch2363?code=103131497823984&key=57532
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=103131497823984&key=15735
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=103131497823984&key=18337
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=103131497823984&key=10226
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=103131497823984&key=18724
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/376.png",AVA kurd TV
+http://skdn.redi-vo.com/iptv/ch376?code=103131497823984&key=20664
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/168.png",Waar TV
+http://skdn.redi-vo.com/iptv/ch168?code=103131497823984&key=63291
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/475.png",Kurdistan 24
+http://skdn.redi-vo.com/iptv/ch475?code=103131497823984&key=42013
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/846.png",Zagros TV
+http://skdn.redi-vo.com/iptv/ch846?code=103131497823984&key=15087
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/844.png",TRT Kurdish
+http://skdn.redi-vo.com/iptv/ch844?code=103131497823984&key=18624
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/834.png",Palestank TV
+http://skdn.redi-vo.com/iptv/ch834?code=103131497823984&key=52835
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/817.png",Kurdmax
+http://skdn.redi-vo.com/iptv/ch817?code=103131497823984&key=24540
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/816.png",Kurdistan TV
+http://skdn.redi-vo.com/iptv/ch816?code=103131497823984&key=17808
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/843.png",Tigray TV
+http://skdn.redi-vo.com/iptv/ch843?code=103131497823984&key=36566
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/813.png",Rudaw HD
+http://skdn.redi-vo.com/iptv/ch813?code=103131497823984&key=44663
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1129.png",Soroyo Kurd
+http://skdn.redi-vo.com/iptv/ch1129?code=103131497823984&key=23052
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3401.png",Sahar Kurd
+http://skdn.redi-vo.com/iptv/ch3401?code=103131497823984&key=54884
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3402.png",Zarok TV
+http://skdn.redi-vo.com/iptv/ch3402?code=103131497823984&key=38965
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3403.png",Net TV
+http://skdn.redi-vo.com/iptv/ch3403?code=103131497823984&key=20226
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3404.png",NRT 1
+http://skdn.redi-vo.com/iptv/ch3404?code=103131497823984&key=15428
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3405.png",NRT 2
+http://skdn.redi-vo.com/iptv/ch3405?code=103131497823984&key=45043
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3406.png",Kanal 4
+http://skdn.redi-vo.com/iptv/ch3406?code=103131497823984&key=50306
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3407.png",Korek TV
+http://skdn.redi-vo.com/iptv/ch3407?code=103131497823984&key=60516
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3408.png",Vin TV
+http://skdn.redi-vo.com/iptv/ch3408?code=103131497823984&key=35924
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1126.png",Kurdmax Show
+http://skdn.redi-vo.com/iptv/ch1126?code=103131497823984&key=50648
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3409.png",Kurdmax Pepul
+http://skdn.redi-vo.com/iptv/ch3409?code=103131497823984&key=11433
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3410.png",Speda TV
+http://skdn.redi-vo.com/iptv/ch3410?code=103131497823984&key=50905
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3412.png",Rojava TV
+http://skdn.redi-vo.com/iptv/ch3412?code=103131497823984&key=50979
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3411.png",Newroz
+http://skdn.redi-vo.com/iptv/ch3411?code=103131497823984&key=14930
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3413.png",Gali Kurd
+http://skdn.redi-vo.com/iptv/ch3413?code=103131497823984&key=23920
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3414.png",Kurdsat News
+http://skdn.redi-vo.com/iptv/ch3414?code=103131497823984&key=63663
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3415.png",Hadi TV3
+http://skdn.redi-vo.com/iptv/ch3415?code=103131497823984&key=20422
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3416.png",News Channel
+http://skdn.redi-vo.com/iptv/ch3416?code=103131497823984&key=63845
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3417.png",Ronahi TV
+http://skdn.redi-vo.com/iptv/ch3417?code=103131497823984&key=14076
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3418.png",Cira TV
+http://skdn.redi-vo.com/iptv/ch3418?code=103131497823984&key=12908
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3419.png",Sterk TV
+http://skdn.redi-vo.com/iptv/ch3419?code=103131497823984&key=63820
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1623.png",Hadi TV4
+http://skdn.redi-vo.com/iptv/ch1623?code=103131497823984&key=15576
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1622.png",Lalish Kurd
+http://skdn.redi-vo.com/iptv/ch1622?code=103131497823984&key=54666
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1621.png",Simaye Azidi
+http://skdn.redi-vo.com/iptv/ch1621?code=103131497823984&key=54178
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1620.png",Wesal Kurd
+http://skdn.redi-vo.com/iptv/ch1620?code=103131497823984&key=55548
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/1619.png",Aryan Kurd
+http://skdn.redi-vo.com/iptv/ch1619?code=103131497823984&key=10815
+#EXTINF:0 group-title="Kurdi"tvg-logo="http://logo.ddnb.tn/logochanel/3420.png",Med Musik
+http://skdn.redi-vo.com/iptv/ch3420?code=103131497823984&key=26269
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2349.png",ATV HD
+http://skdn.redi-vo.com/iptv/ch2349?code=103131497823984&key=53172
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2370.png",ATV Avrupa Tr
+http://skdn.redi-vo.com/iptv/ch2370?code=103131497823984&key=43411
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2372.png",A news Tr
+http://skdn.redi-vo.com/iptv/ch2372?code=103131497823984&key=24010
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2351.png",A Haber
+http://skdn.redi-vo.com/iptv/ch2351?code=103131497823984&key=43761
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2316.png",A para Tr
+http://skdn.redi-vo.com/iptv/ch2316?code=103131497823984&key=37941
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2350.png",Aspor HD
+http://skdn.redi-vo.com/iptv/ch2350?code=103131497823984&key=37111
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2330.png",A2 HD Tr
+http://skdn.redi-vo.com/iptv/ch2330?code=103131497823984&key=56228
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2334.png",A2 Tr
+http://skdn.redi-vo.com/iptv/ch2334?code=103131497823984&key=39141
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2333.png",Kanal D HD
+http://skdn.redi-vo.com/iptv/ch2333?code=103131497823984&key=22161
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2335.png",Kanal 7
+http://skdn.redi-vo.com/iptv/ch2335?code=103131497823984&key=41238
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/424.png",Kanal7 Avrupa TR
+http://skdn.redi-vo.com/iptv/ch424?code=103131497823984&key=54481
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2314.png",Show TV HD
+http://skdn.redi-vo.com/iptv/ch2314?code=103131497823984&key=13006
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2311.png",Star Tv HD
+http://skdn.redi-vo.com/iptv/ch2311?code=103131497823984&key=48056
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1354.png",TV8 Tr
+http://skdn.redi-vo.com/iptv/ch1354?code=103131497823984&key=49831
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2307.png",TV8.5 Tr
+http://skdn.redi-vo.com/iptv/ch2307?code=103131497823984&key=55110
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2394.png",TV8 int. Tr
+http://skdn.redi-vo.com/iptv/ch2394?code=103131497823984&key=45624
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1376.png",Fox TV
+http://skdn.redi-vo.com/iptv/ch1376?code=103131497823984&key=60802
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2344.png",CNN Türk HD
+http://skdn.redi-vo.com/iptv/ch2344?code=103131497823984&key=30135
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2347.png",Beyaz TV HD
+http://skdn.redi-vo.com/iptv/ch2347?code=103131497823984&key=33716
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2338.png",Habertürk HD
+http://skdn.redi-vo.com/iptv/ch2338?code=103131497823984&key=23671
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1359.png",TRT 1
+http://skdn.redi-vo.com/iptv/ch1359?code=103131497823984&key=38036
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=103131497823984&key=44118
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1365.png",TRT Musik
+http://skdn.redi-vo.com/iptv/ch1365?code=103131497823984&key=44801
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1358.png",TRT Haber
+http://skdn.redi-vo.com/iptv/ch1358?code=103131497823984&key=22389
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1366.png",TRT Cocuk
+http://skdn.redi-vo.com/iptv/ch1366?code=103131497823984&key=41453
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1357.png",TRT Belgesel
+http://skdn.redi-vo.com/iptv/ch1357?code=103131497823984&key=25096
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1360.png",TRT Avaz Tr
+http://skdn.redi-vo.com/iptv/ch1360?code=103131497823984&key=44583
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1362.png",TRT 6
+http://skdn.redi-vo.com/iptv/ch1362?code=103131497823984&key=16909
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/459.png",TRT Arabic
+http://skdn.redi-vo.com/iptv/ch459?code=103131497823984&key=10122
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/413.png",Kanal T TR
+http://skdn.redi-vo.com/iptv/ch413?code=103131497823984&key=14055
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/422.png",Genc TR
+http://skdn.redi-vo.com/iptv/ch422?code=103131497823984&key=61559
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/423.png",BRT TR
+http://skdn.redi-vo.com/iptv/ch423?code=103131497823984&key=19410
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/426.png",Euro D TR
+http://skdn.redi-vo.com/iptv/ch426?code=103131497823984&key=15470
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/428.png",Semerkand TR
+http://skdn.redi-vo.com/iptv/ch428?code=103131497823984&key=51900
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/429.png",Euro Star TR
+http://skdn.redi-vo.com/iptv/ch429?code=103131497823984&key=52534
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2323.png",NTV
+http://skdn.redi-vo.com/iptv/ch2323?code=103131497823984&key=63800
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2324.png",NR1 Tv
+http://skdn.redi-vo.com/iptv/ch2324?code=103131497823984&key=24949
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2325.png",NR1 Türk Tv
+http://skdn.redi-vo.com/iptv/ch2325?code=103131497823984&key=24990
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2306.png",TV 2
+http://skdn.redi-vo.com/iptv/ch2306?code=103131497823984&key=49661
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2304.png",TV4
+http://skdn.redi-vo.com/iptv/ch2304?code=103131497823984&key=19155
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2301.png",Ulusal Tv
+http://skdn.redi-vo.com/iptv/ch2301?code=103131497823984&key=58182
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2302.png",Ulke TV
+http://skdn.redi-vo.com/iptv/ch2302?code=103131497823984&key=14650
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2303.png",TVNET HD
+http://skdn.redi-vo.com/iptv/ch2303?code=103131497823984&key=22896
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2352.png",TGRT Haber
+http://skdn.redi-vo.com/iptv/ch2352?code=103131497823984&key=12431
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2309.png",TGRT EU
+http://skdn.redi-vo.com/iptv/ch2309?code=103131497823984&key=54029
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2310.png",TGRT Belgesel
+http://skdn.redi-vo.com/iptv/ch2310?code=103131497823984&key=34975
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2332.png",Meltem Tv
+http://skdn.redi-vo.com/iptv/ch2332?code=103131497823984&key=21908
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2337.png",Halk TV
+http://skdn.redi-vo.com/iptv/ch2337?code=103131497823984&key=47131
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2340.png",Ege Tv
+http://skdn.redi-vo.com/iptv/ch2340?code=103131497823984&key=57100
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2345.png",Cem Tv
+http://skdn.redi-vo.com/iptv/ch2345?code=103131497823984&key=54598
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2346.png",Blomberg-tv
+http://skdn.redi-vo.com/iptv/ch2346?code=103131497823984&key=43870
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2348.png",Bengu turk
+http://skdn.redi-vo.com/iptv/ch2348?code=103131497823984&key=25646
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2300.png",Vatan Tv
+http://skdn.redi-vo.com/iptv/ch2300?code=103131497823984&key=12664
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=103131497823984&key=29705
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2367.png",Sivas Srt TR
+http://skdn.redi-vo.com/iptv/ch2367?code=103131497823984&key=42807
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2369.png",Kanalcay TR
+http://skdn.redi-vo.com/iptv/ch2369?code=103131497823984&key=34544
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2374.png",TRT World TR
+http://skdn.redi-vo.com/iptv/ch2374?code=103131497823984&key=24973
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1384.png",SKY 360
+http://skdn.redi-vo.com/iptv/ch1384?code=103131497823984&key=40528
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2315.png",Semerkand TV
+http://skdn.redi-vo.com/iptv/ch2315?code=103131497823984&key=20351
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2341.png",Dream Türk
+http://skdn.redi-vo.com/iptv/ch2341?code=103131497823984&key=55712
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2317.png",PowerTurk HD
+http://skdn.redi-vo.com/iptv/ch2317?code=103131497823984&key=63585
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2318.png",Power Tv HD
+http://skdn.redi-vo.com/iptv/ch2318?code=103131497823984&key=19658
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2329.png",Minika Cocuk
+http://skdn.redi-vo.com/iptv/ch2329?code=103131497823984&key=31877
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2375.png",Minika Go Tr
+http://skdn.redi-vo.com/iptv/ch2375?code=103131497823984&key=16671
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2368.png",Lalegul Tr
+http://skdn.redi-vo.com/iptv/ch2368?code=103131497823984&key=36951
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2364.png",365 Tr
+http://skdn.redi-vo.com/iptv/ch2364?code=103131497823984&key=37544
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2339.png",Disney Tr
+http://skdn.redi-vo.com/iptv/ch2339?code=103131497823984&key=24139
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/412.png",Cartoonnet Tr
+http://skdn.redi-vo.com/iptv/ch412?code=103131497823984&key=15794
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2336.png",TVT Tr
+http://skdn.redi-vo.com/iptv/ch2336?code=103131497823984&key=31808
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2331.png",TLC Tr
+http://skdn.redi-vo.com/iptv/ch2331?code=103131497823984&key=45010
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2308.png",D-Max Tr
+http://skdn.redi-vo.com/iptv/ch2308?code=103131497823984&key=61259
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2305.png",Mega Tr
+http://skdn.redi-vo.com/iptv/ch2305?code=103131497823984&key=55750
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/427.png",Park Tr
+http://skdn.redi-vo.com/iptv/ch427?code=103131497823984&key=25621
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2373.png",Kanalb Tr
+http://skdn.redi-vo.com/iptv/ch2373?code=103131497823984&key=52922
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2397.png",Gonka Tr
+http://skdn.redi-vo.com/iptv/ch2397?code=103131497823984&key=55524
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2398.png",Kackar Tr
+http://skdn.redi-vo.com/iptv/ch2398?code=103131497823984&key=16897
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2399.png",Kon Tr
+http://skdn.redi-vo.com/iptv/ch2399?code=103131497823984&key=42875
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2376.png",Kadirga Tr
+http://skdn.redi-vo.com/iptv/ch2376?code=103131497823984&key=32311
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2319.png",Kanal3 Tr
+http://skdn.redi-vo.com/iptv/ch2319?code=103131497823984&key=13261
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2320.png",CIFTCI Tr
+http://skdn.redi-vo.com/iptv/ch2320?code=103131497823984&key=41453
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2321.png",24 Tr
+http://skdn.redi-vo.com/iptv/ch2321?code=103131497823984&key=51933
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2322.png",Yaban Tr
+http://skdn.redi-vo.com/iptv/ch2322?code=103131497823984&key=24165
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2342.png",Discovery Science HD
+http://skdn.redi-vo.com/iptv/ch2342?code=103131497823984&key=47840
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2343.png",Discovery HD TR
+http://skdn.redi-vo.com/iptv/ch2343?code=103131497823984&key=43121
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2327.png",Nat. Geo. HD Tü
+http://skdn.redi-vo.com/iptv/ch2327?code=103131497823984&key=14731
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2357.png",Nat. Geo. Wild TR
+http://skdn.redi-vo.com/iptv/ch2357?code=103131497823984&key=12278
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2392.png",BBC Earth TR
+http://skdn.redi-vo.com/iptv/ch2392?code=103131497823984&key=24192
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2393.png",Animal Planet TR
+http://skdn.redi-vo.com/iptv/ch2393?code=103131497823984&key=34262
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2387.png",FX TR
+http://skdn.redi-vo.com/iptv/ch2387?code=103131497823984&key=41943
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2388.png",FOX Life TR
+http://skdn.redi-vo.com/iptv/ch2388?code=103131497823984&key=10692
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2389.png",FOX Crime TR
+http://skdn.redi-vo.com/iptv/ch2389?code=103131497823984&key=33835
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2390.png",GS TV TR
+http://skdn.redi-vo.com/iptv/ch2390?code=103131497823984&key=56914
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2313.png",FB TV
+http://skdn.redi-vo.com/iptv/ch2313?code=103131497823984&key=47708
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2386.png",BJK TR
+http://skdn.redi-vo.com/iptv/ch2386?code=103131497823984&key=59333
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2363.png",beIN Tr
+http://skdn.redi-vo.com/iptv/ch2363?code=103131497823984&key=57532
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=103131497823984&key=15735
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=103131497823984&key=18337
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=103131497823984&key=10226
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=103131497823984&key=18724
+#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1733.png",B4U Movies
+http://skdn.redi-vo.com/iptv/ch1733?code=103131497823984&key=12520
+#EXTINF:0 group-title="Hindi/Asia"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
+http://skdn.redi-vo.com/iptv/ch1732?code=103131497823984&key=64678
