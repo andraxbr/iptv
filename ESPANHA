@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,flylinks.net 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,flylinks.net 13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,flylinks.net Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1,flylinks.net Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1,flylinks.net Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,flylinks.net ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1,flylinks.net Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:-1,flylinks.net Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,flylinks.net Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1,flylinks.net Lleida TV
+http://cdns724ste0010.shooowit.net/lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,flylinks.net Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1,flylinks.net Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+#EXTINF:-1,flylinks.net Mirame TV
+http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
+#EXTINF:-1,flylinks.net Mogan TV
+http://teledifusion.tv:1935/mogan/moganlive/playlist.m3u8
+#EXTINF:-1,flylinks.net Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,flylinks.net Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,flylinks.net Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,flylinks.net Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,flylinks.net Olot TV
+http://cdns724ste1010.shooowit.net/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,flylinks.net Onda Algeciras
+http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
+#EXTINF:-1,flylinks.net Onda Azul Malaga
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,flylinks.net Onda Cadiz
+http://195.55.74.208/adc/live-hls/chunklist_b1065536.m3u8
+#EXTINF:-1,flylinks.net Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Cadiz [NoKodi]
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Costa del Sol [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Costa Noroeste [NoKodi]
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Jerez [NoKodi]
+http://cloud1.cdnstreamserver.com/oljerez/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Marbella [NoKodi]
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Ondaluz Sevilla [NoKodi]
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:-1,flylinks.net Popular TV Cantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:-1,flylinks.net Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,flylinks.net Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,flylinks.net Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,flylinks.net Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+#EXTINF:-1,flylinks.net RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1,flylinks.net RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,flylinks.net RTV Marbella
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:-1,flylinks.net San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+#EXTINF:-1,flylinks.net Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,flylinks.net TAC12
+http://cdnlive.shooowit.net/tac12live/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,flylinks.net TCS Mediterraneo
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:-1,flylinks.net TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1,flylinks.net TeleBadalona
+http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1,flylinks.net TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+#EXTINF:-1,flylinks.net Telecinco
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/RsZXlnNTE6re1fFuFEI0UrdA2Uj7pNGM/cn/5d62490854b545598f64eaa84709400b_4.m3u8
+#EXTINF:-1,flylinks.net TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+#EXTINF:-1,flylinks.net Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1,flylinks.net TeleOnuba
+http://cls2.todostreaming.eu/azahara/GdZpE8ef/chunklist.m3u8
+#EXTINF:-1,flylinks.net TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,flylinks.net TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1,flylinks.net Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1,flylinks.net Tindaya TV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8
+#EXTINF:-1,flylinks.net Travel TV
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1,flylinks.net TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,flylinks.net TV3*
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,flylinks.net TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+#EXTINF:-1,flylinks.net TV Alcoi
+http://92.222.37.18/hls/tvaxa.m3u8
+#EXTINF:-1,flylinks.net TVG America
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,flylinks.net TVG Europa
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,flylinks.net TVG Europa*
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,flylinks.net TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
