@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 ,https://flylinks.net, 13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+#EXTINF:-1 ,https://flylinks.net, 13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 ,https://flylinks.net, 24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, 5RTV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 ,https://flylinks.net, 5RTV Santa Fe
+http://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
+#EXTINF:-1 ,https://flylinks.net, 9 MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+#EXTINF:-1 ,https://flylinks.net, Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1 ,https://flylinks.net, Canal 10 Cordoba
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 10 General Roca
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 17 Milenium Salta
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 26
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 79 Mar del Plata
+https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w56484596.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 9 Comodoro Rivadavia
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 ,https://flylinks.net, CANAL 9 LITORAL
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 ,https://flylinks.net, Canal Acequia
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+#EXTINF:-1 ,https://flylinks.net, CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 ,https://flylinks.net, Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+#EXTINF:-1 ,https://flylinks.net, Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 ,https://flylinks.net, CL3
+http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8
+#EXTINF:-1 ,https://flylinks.net, Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF:-1 ,https://flylinks.net, CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
+#EXTINF:-1 ,https://flylinks.net, CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 ,https://flylinks.net, El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Frecuencia Musical TV
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 ,https://flylinks.net, LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF:-1 ,https://flylinks.net, Locomotion TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 ,https://flylinks.net, Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 ,https://flylinks.net, Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:-1 ,https://flylinks.net, Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 ,https://flylinks.net, RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:-1 ,https://flylinks.net, RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 ,https://flylinks.net, T5 Satelital
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1 ,https://flylinks.net, Telemax
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1 ,https://flylinks.net, TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1 ,https://flylinks.net, TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 ,https://flylinks.net, Télam 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
